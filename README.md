@@ -1,10 +1,7 @@
 # spellcast
 
-An Electron application with React and TypeScript
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+Discord SpellCast game clone\
+afterwards the plan is to create an algo that finds the word that gets you the most points
 
 ## Project Setup
 
